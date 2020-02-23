@@ -108,7 +108,9 @@
     <None Include="Resources\solo el logo negro transparente.png" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Resources\CSharp.jpg" />
     <Content Include="Resources\login.png" />
+    <Content Include="Resources\microsoft_sqlserver.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
